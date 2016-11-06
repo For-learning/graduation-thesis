@@ -1,0 +1,84 @@
+
+(1) TSP问题的中体调用类
+class TSP_GA {
+    public static void main(String[] args) {
+        1：调用城市个体类并进行城市个体的初始化并保存在数组中
+        
+        2：初始化整个种群
+
+        3：调用选择复制、交换变异算法进行种群迭代
+
+        4：输出最终结果
+    }
+}
+
+(2) 整个遗传算法的城市个体类
+class City {
+	1：定义城市类的具体属性
+    
+    double distanceTo(City city){
+        2：计算到给定城市的距离
+    }
+}
+
+(3) 保存的整个种群个体和进行种群个体适应度计算的类
+class Population {
+
+	1: 定义数组保存整个种群个体
+	Tour[] tours;
+
+	// Construct a population
+	Population(int populationSize, boolean initialise) {
+		2： 保存整个种群的信息
+	}
+
+	Tour getFittest() {
+		3： 获取当前种群中最优的个体
+	}
+}
+
+(4)种群的每个个体具体信息类
+public class Tour{
+
+    1：保持所有城市的路径
+    private ArrayList tour = new ArrayList<City>();
+    
+    public void generateIndividual() {
+        2：创建一个随机个体并将内部的城市顺序打乱
+    }
+
+    public double getFitness() {
+        3：计算每个个体的适应度值（距离小的 适应值较大）
+    }
+
+    public int getDistance(){
+       4：获取当前个体中路径的当前顺序下的路径总距离
+    }
+}
+
+(5)选择复制，交换变异调用过程
+public class GA {
+
+    1：定义交换概率和突变概率
+    double mutationRate = 0.015;
+    int tournamentSize = 5;
+
+    Population evolvePopulation(Population pop) {
+
+        1：调用种群交换操作方法
+		
+		2：调用个体变异方法
+    }
+
+	Tour crossover(Tour parent1, Tour parent2) {
+        2：对给定的个体进行交换操作
+    }
+
+    void mutate(Tour tour) {
+        3：对于给定的个体，进行突变操作
+    }
+
+    Tour tournamentSelection(Population pop) {
+       4：对于给定的个体，进行交换操作
+    }
+}
