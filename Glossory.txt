@@ -8,6 +8,8 @@ Gossory:
 
 - hdfs
 
+- 相似度比较算子
+
 
 
 
