@@ -1,0 +1,134 @@
+
+
+67篇参考文献
+42篇中文
+[1] 陈江华,林爱文,杨明,龚健.  遗传算法求解TSP问题的研究进展[J]. 昆明理工大学学报(理工版). 2003(04)
+[2] 马钧水,刘贵忠,贾玉兰.  改进遗传算法搜索性能的大变异操作[J]. 控制理论与应用. 1998(03)
+[3] 王凌,郑大钟.  TSP问题次优化求解方法的比较[J]. 控制与决策. 1998(01)
+[4] 陈国良等编著.遗传算法及其应用[M]. 人民邮电出版社, 1996
+[6] 穆艳玲.  遗传算法在TSP问题中的应用[D]. 天津师范大学 2004
+[7] 孟凡宇.  一种改进的遗传算法在TSP问题中的应用研究[D]. 辽宁工程技术大学 2005
+[8] 许文方.  基于单亲遗传算法的TSP问题研究[D]. 合肥工业大学 2006
+[9] 于兴涛.  一种改进的遗传算法及其在TSP求解中的应用[D]. 山东大学 2006
+[11] 孟佳娜,王立宏.  具有自识别能力的遗传算法求解旅行商问题[J]. 计算机工程与应用. 2006(13)
+[12] 吴少岩,许卓群.  遗传算法中遗传算子的启发式构造策略[J]. 计算机学报. 1998(11)
+[13] 王松.  基于遗传算法的单机逆调度方法研究[D]. 华中科技大学 2014
+[14] 汪松泉.  遗传算法在组合优化中的应用研究[D]. 安徽大学 2010
+[18] 慕彩红,焦李成,刘逸.  M-精英协同进化数值优化算法[J]. 软件学报. 2009(11)
+[19] 王意洁,孙伟东,周松,裴晓强,李小勇.  云计算环境下的分布存储关键技术[J]. 软件学报. 2012(04)
+[20] 庄健,杨清宇,杜海峰,于德弘.  一种高效的复杂系统遗传算法[J]. 软件学报. 2010(11)
+[22] 傅杰,都志辉.  一种周期性MapReduce作业的负载均衡策略[J]. 计算机科学. 2013(03)
+[27] 崔杰,李陶深,兰红星.  基于Hadoop的海量数据存储平台设计与开发[J]. 计算机研究与发展. 2012(S1)
+[29] 程莹,张云勇,徐雷,房秉毅.  基于Hadoop及关系型数据库的海量数据分析研究[J]. 电信科学. 2010(11)
+[30] 谢桂兰,罗省贤.  基于Hadoop MapReduce模型的应用研究[J]. 微型机与应用. 2010(08)
+[31] 林伟伟.  一种改进的Hadoop数据放置策略[J]. 华南理工大学学报(自然科学版). 2012(01)
+[36] 李玉林,董晶.  基于Hadoop的MapReduce模型的研究与改进[J]. 计算机工程与设计. 2012(08)
+[38] 李成华,张新访,金海,向文.  MapReduce:新型的分布式并行计算编程模型[J]. 计算机工程与科学. 2011(03)
+[39] 张煜东,吴乐南,韦耿.  智能算法求解TSP问题的比较[J]. 计算机工程与应用. 2009(11)
+[21] 葛继科,邱玉辉,吴春明,蒲国林.  遗传算法研究综述[J]. 计算机应用研究. 2008(10)
+
+
+
+
+25篇外文
+[1] David S J,Lyle A M.The Traveling Salesman Problem: A Case Study in Local Optimization. 1995
+[2] Genetic Algorithms for the Travelling Salesman Problem: A Review of Representations and Operators[J]. Artificial Intelligence Review . 1999 (2)
+[4] Reinelt G.The traveling salesman: computational solutions for TSP applications. Lecture Notes in Computer Science . 1994
+[5] Grefenstette.J.J,Gopal.R,Rosmaita.B,Gucht.D.V.Genetic Algorithms for The Traveling Salesman Problem. Proc of 1st Int Conf on Genetic Algorithms and Their Applications . 1985
+[6] Watson.C,Ross,V,Eisele,J.Denton.et al.The Traveling Salesman Problem Edge Assembly Crossover, and 2–opt. . 1998
+[7] Sangit Chatterjee,Cecilia Carrera,Lucy.A.Lynch.Genetic Algorithms and traveling salesman. Problems. European journal of Operatinanal Reseach . 1996
+[9] Danoy G,Bouvry P,Martins T.Hlcga:A hybrid competitive coevolutionary genetic algorithm. Proc.of the 6th Int’’lConf.on Hybrid Intelligent Systems . 2006
+[10] Li QH,Yang SD,Ruan YL.Improving optimization for genetic algorithms based on level set. Journal of Computer Research andDevelopment . 2006
+[11] Wichian Premchaiswadi,Walisa Romsaiyud.  Optimizing and Tuning MapReduce Jobs to Improve the Large‐Scale Data Analysis Process[J]. Int. J. Intell. Syst. . 2012 (2)
+[13] Zhiwei Xu,Bo Yan,Yongqiang Zou.  Beyond Hadoop: Recent Directions in Data Computing for Internet Services[J]. International Journal of Cloud Applications and Computing (IJCAC) . 2011 (1)
+[16] Dino Keo,Abdulhamit Subasi.Parallelization of genetic algorithms using Hadoop MapReduce. Southeast Europe Journal Of Soft Computing . 2012
+[17] Gerhard Reinelt.  TSPLIB—A Traveling Salesman Problem Library[J]. ORSA Journal on Computing . 1991 (4)
+[18] E.Paz.A survey of parallel genetic algorithms. Illigal Report, No.97003 . 1997
+[19] Dean J,Ghemawat S.Map reduce:Simplified data processing on large clusters. . 2004
+[20] Huang Z C,Hu X L,Chen S D.Dynamic traveling salesman problem based on evolutionary computation. Proc.of Evolutionary Computation Conf . 2001
+[22] Konstantin Shvachko,Hairong Kuang,Sanjay Radia.The Hadoop Distributed File System. Proceedings of the26th IEEE Symposium onMass Storage Systems and Technologies (MSST’’10) . 2010
+[23] Jeffrey Dean,Sanjay Ghemawat.  MapReduce[J]. Communications of the ACM . 2008 (1)
+[49] Sushil J.Louis.Genetic Algorithm for TSP[OL]. http://www.cs.unr.edu/-sushi/papers/conferenc.
+
+
+
+
+============================第一章：8 4 （completed）（1-12）================================
+[1] 孟小峰,慈祥.  大数据管理:概念、技术与挑战[J]. 计算机研究与发展. 2013(01)
+[2] 郭艳霞,颜军.  海量数据存储模式的研究[J]. 计算机与数字工程. 2008(11)
+[3] 黄少荣.  遗传算法及其应用[J]. 电脑知识与技术. 2008(34)
+[4] Jin C,Vecchiola C,Buyya R.Mrpga:An extension of mapreduce for parallelizing genetic algorithms. IEEE Fourth International Conference on eScience . 2008
+[5] 邓传华,范通让,高峰.  一种基于Hadoop的作业转移调度算法[J]. 河北省科学院学报. 2012(02)
+[6] 陈章辉,黄小晖,任文艺,康烈.  基于双倍体遗传算法求解大学排课问题[J]. 计算机应用. 2008(12)
+[7] Teuvo Kohonen.  Self-organized formation of topologically correct feature maps[J]. Biological Cybernetics . 1982 (1)
+[8] 胡能发,康立山.  一种采用整数编码的全局优化算法[J]. 湖北大学学报(自然科学版). 2002(02)
+[9] JH Holland. Adoption in Natural and Artificial System. MIT Press. 1975. 6(2):126–137
+[10] KAD Jong. Analysis of the behavior of a class of genetic adaptive systems. Dept Computer Andcommunication Sciences Universityof Michigan Ann Arbor. 2010
+[11] 梁宇宏,张欣.  对遗传算法的轮盘赌选择方式的改进[J]. 信息技术. 2009(12)
+[12] 夏祎.  Hadoop平台下的作业调度算法研究与改进[D]. 华南理工大学 2010
+
+==============================第二章：9 7 （completed）（13-28）==================================
+[13] 王彦明,奉国和,薛云.  近年来Hadoop国外研究综述[J]. 计算机系统应用. 2013(06)
+[14] S.Ghemawat,H.Gobioff,S.Leung.The Google file system. Proceedings of the nineteenth ACM symposium on Operating systems principles . 2003
+[15] 郝树魁.  Hadoop HDFS和MapReduce架构浅析[J]. 邮电设计技术. 2012(07)
+[16] 陈吉荣,乐嘉锦.  基于Hadoop生态系统的大数据解决方案综述[J]. 计算机工程与科学. 2013(10)
+[17]Pig. https://cwiki.apache.org/confluence/display/PIG/Index
+[18] Carstoiu, Dorin,Lepadatu, Elena,Gaspar, Mihai.  Hbase - non SQL Database, Performances Evaluation[J]. International Journal of Advancements in Computing Technology . 2010 (5)
+[19] 王悦.  Hive日志分析的大数据存储优化探讨[J]. 信息通信. 2015(10)
+[20] S. Owen,R. Anil,T. Dunning,E. Friedman.Mahout in action. . 2011
+[21] Apache Software Foundation.Apache Zookeeper. http://Zookeeper.apache.org/ . 2013
+[22] YARN. http://hadoop.apache.org/docs/r2.2.0/hadoop-yarn/hadoop-yarn-site/ YARN.html .
+[23] 朱颂.  分布式文件系统HDFS的分析[J]. 福建电脑. 2012(04)
+[24] Yanfeng Zhang,Qixin Gao,Lixin Gao,Cuirong Wang.  iMapReduce: A Distributed Computing Framework for Iterative Computation[J]. Journal of Grid Computing . 2012 (1)
+[25] 易小华,刘杰,叶丹.  面向MapReduce的数据处理流程开发方法[J]. 计算机科学与探索. 2011(02)
+[26] 刘琨,李爱菊,董龙江.  基于Hadoop的云存储的研究及实现[J]. 微计算机信息. 2011(07)
+[27] 谌超,强保华,石龙.  基于Hadoop MapReduce的大规模数据索引构建与集群性能分析[J]. 桂林电子科技大学学报. 2012(04)
+[28] 田秀霞,周耀君,毕忠勤,彭源.  基于Hadoop架构的分布式计算和存储技术及其应用[J]. 上海电力学院学报. 2011(01)
+
+=================================第三章：15 5 （）（29-48）=============================================
+[29] 陈皓,崔杜武,崔颖安,陶永芹,梁琨.  族群进化算法[J]. 软件学报. 2010(05)
+[30] 陈国良等编著.遗传算法及其应用[M]. 人民邮电出版社, 1996
+[31] C.A.C.Coello."Evolutionary multi-objective optimization:a historical view of the field". IEEE Computational Intelligence Magazine . 2006
+[32] da Fonseca Neto J V,Bottura C P.Parallel genetic algorithm fitness function team for eigenstructure assignment via LQR designs. Proc. CEC99. IEEE . 1999
+[33] 林丹,寇纪淞,李敏强.  遗传规划研究与应用中的若干问题[J]. 管理科学学报. 1999(04)
+[34] Goldberg D E.Genetic Algorithms in Search, Optimization, and Machine Learning. . 1989
+[35] 侯广坤,骆江鹏.  一种理想并行遗传算法模型[J]. 软件学报. 1999(05)
+[36] 岳嵚,冯珊.  遗传算法的计算性能的统计分析[J]. 计算机学报. 2009(12)
+[37] 江中央,蔡自兴,王勇.  求解全局优化问题的混合自适应正交遗传算法[J]. 软件学报. 2010(06)
+[38] Dorigo M.Optimization, learning and natural algorithms. Journal of Women s Health . 1992
+[39] 朱林杰.  基于TSP的遗传算法优化研究[D]. 大连理工大学 2007
+[40] 姚恩瑜等编著.数学规划与组合优化[M]. 浙江大学出版社, 2001
+[41] 李雪飞,刘经南,傅佩红. 一种适用于物流配送系统的TSP算法. 测绘通报 2006年09期
+[42] 王英力,庄奕琪.  一种新型异步FIFO的设计[J]. 电子设计应用. 2007(09)
+[43] 肖青青,赵娜.  对动态规划法和贪心法的分析和比较[J]. 现代商贸工业. 2009(02)
+[44] 冯春时,丛爽. 群智能优化算法及其应用. 控制理论与控制工程. 2009
+[45] 江加和,宋子善,沈为群,邱力为.  模拟退火算法在连续变量全局优化问题中应用[J]. 北京航空航天大学学报. 2001(05)
+[46] 邹哲讷.  贪心算法及其应用[J]. 计算机光盘软件与应用. 2015(03)
+[47] 付欣,李静.  蚁群算法[J]. 硅谷. 2012(03)
+[48] Bui T N,Moon B R.A New Genetic Approach for the Traveling Salesman Problem. Proc.IEEE Conf.Evolutionary Computation . 1994
+
+=================================第四章：7 5 （）（49-60）=================================
+
+
+
+
+
+
+
+=================================第五章：6 2 （）（61-68）=================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
