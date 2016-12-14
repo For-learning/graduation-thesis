@@ -125,11 +125,12 @@
 [66] 傅杰,都志辉.  一种周期性MapReduce作业的负载均衡策略[J]. 计算机科学. 2013(03)
 
 
-
-
-
-
-
-
+-- issues reference articles
+[3] 黄少荣. 遗传算法及其应用[J]. 电脑知识与技术. 2008(34).
+[46] 邹哲讷. 贪心算法及其应用[J]. 计算机光盘软件与应用. 2015(03)
+[47] 付欣,李静. 蚁群算法[J]. 硅谷. 2012(03).
+[50] E.Paz.A survey of parallel genetic algorithms. Illigal Report, No.97003. 1997
+[53] 郭绚,石晓虹. 并行遗传算法的性能分析[J]. 航空计算技术. 1998(03).
+[64] Konstantin Shvachko,Hairong Kuang,Sanjay Radia.The Hadoop Distributed File System. Proceedings of the26th IEEE Symposium onMass Storage Systems and Technologies (MSST’’10). 2010.
 
 
